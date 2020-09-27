@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.eval</groupId>
-	<artifactId>CoronaKitSBA-spring-boot-web-data-secure2</artifactId>
+	<artifactId>Corona-Kit-Portal-SBA2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>coronakit</name>
