@@ -73,7 +73,7 @@
                         <td>${product.productName }</td>  
                         <td>${product.cost }</td>  
                         <td>${product.productDescription}</td>
-                      <td> <a class="btn btn-sm btn-primary" href="${pageContext.request.contextPath }/user/add-to-cart?productId=${product.id}">Add</a> </td>
+                      <td> <a class="btn btn-sm btn-primary" href="${pageContext.request.contextPath }/user/add-to-cart?productId=${product.id}">Add to Cart</a> </td>
                     </tr>  
                 </c:forEach>  
             </table> 
